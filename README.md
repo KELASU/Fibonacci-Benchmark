@@ -36,7 +36,9 @@ For main test
 ```
 ./main_test.out
 ```
-#Space Complexity
-Iterative:
+# Space Complexity
 
+Iterative:
+<img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/Iterative_space_complexity.jpg>
 Recursive:
+<img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/Recursive_Space_Complexity.jpg>
