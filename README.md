@@ -42,3 +42,12 @@ Iterative:
 <img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/Iterative_space_complexity.jpg>
 Recursive:
 <img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/Recursive_Space_Complexity.jpg>
+
+# Time Complexity
+Iterative:
+
+<img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/Time_iterative.jpg>
+
+Recursive:
+
+<img src=https://github.com/KELASU/Fibonacci-Benchmark/blob/main/fib_img/time_recursive.jpg>
